@@ -3,11 +3,10 @@
 
 | No. | Anggota               | NRP          |
 |-----|----------------------------|--------------|
-| 1   | Aida Fitrania Prabasati    | 5025211033   |
-| 2   | Rule Lulu Damara           | 5025211050   |
+| 1   | Rule Lulu Damara           | 5025211050   |
 
 ## Topologi
-![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/da45cfe7-6ae2-4ddd-b087-4e7e8918368c)
+![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/5aca9611-3dee-4fca-a9e2-f4b9fc73644e)
 
 ## Pohon IP VLSM
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/076daf96-ed83-4647-be1e-bab7526acfed)
