@@ -39,7 +39,7 @@ up iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 192.175.0.0/19
 
 auto eth1
 iface eth1 inet static
-	address 192.175.24.125
+	address 192.175.24.133
 	netmask 255.255.255.252
 
 auto eth2
@@ -49,10 +49,10 @@ iface eth2 inet static
 
 auto eth3
 iface eth3 inet static
-	address 192.175.24.133
+	address 192.175.24.125
 	netmask 255.255.255.252
-
 ```
+
 - FREIREN
 ```bash
 auto eth0
@@ -139,12 +139,12 @@ iface eth0 inet static
 
 auto eth1
 iface eth1 inet static
-	address 192.175.24.105
-	netmask 255.255.255.248
+	address 192.175.24.137
+	netmask 255.255.255.252
 
 auto eth2
 iface eth2 inet static
-	address 192.175.24.137
+	address 192.175.24.149
 	netmask 255.255.255.252
 
 auto eth3
@@ -154,8 +154,8 @@ iface eth3 inet static
 
 auto eth4
 iface eth4 inet static
-	address 192.175.23.1
-	netmask 255.255.255.0
+	address 192.175.24.105
+	netmask 255.255.255.248
 ```
 
 - LINIE
@@ -169,12 +169,12 @@ iface eth0 inet static
 
 auto eth1
 iface eth1 inet static
-	address 192.175.24.145
-	netmask 255.255.255.252
+	address 192.175.20.1
+	netmask 255.255.255.254.0
 
 auto eth2
 iface eth2 inet static
-	address 192.175.24.149
+	address 192.175.24.145
 	netmask 255.255.255.252
 ```
 
@@ -197,9 +197,9 @@ iface eth1 inet static
 ```bash
 auto eth0
 iface eth0 inet static
-	address 192.175.24.147
+	address 192.175.24.3
 	netmask 255.255.255.192
-	gateway 192.175.24.145
+	gateway 192.175.24.1
 	up echo nameserver 192.122.168.1 > /etc/resolv.conf
 
 auto eth1
@@ -307,7 +307,7 @@ route add -net 192.175.12.0 netmask 255.255.252.0 gw 192.175.24.146
 
 - LAWINE
 ```bash
-route add -net 10.2.12.0 netmask 255.255.252.0 gw 10.2.24.2
+route add -net 192.175.12.0 netmask 255.255.252.0 gw 192.175.24.2
 ```
 
 ## CIFUGURASI CLIENT 
