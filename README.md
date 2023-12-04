@@ -652,4 +652,4 @@ Berikut testing dengan melakukan ping
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/8aea3a9a-d022-4487-af3c-161e9689f798)
 
 ## KENDALA
-- Solo
+- Nguli
