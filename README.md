@@ -18,6 +18,7 @@ Prefix IP yang digunakan adalah ```bash 192.175.x.x```
 ## VLSM
 ## Topologi 
 Berikut merupakan topologi yang digunakan dalam metode VLSM dengan GNS3:
+![WhatsApp Image 2023-12-05 at 04 17 29_b943d86c](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/f8a60f0d-6e56-4033-91cf-040ca149cbf3)
 
 ## Tree VLSM
 Berikut merupakan tree yang digunakan dalam metode VLSM:
@@ -472,6 +473,7 @@ iface eth0 inet static
 
 ## Testing
 Berikut testing dengan melakukan ping:
+![WhatsApp Image 2023-12-05 at 04 20 58_739b4c32](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/31c6a30e-7d31-411f-9ee9-3baa6432ef00)
 
 
 ## CIDR
@@ -492,51 +494,67 @@ Berikut merupakan topologi yang digunakan dalam metode CIDR dengan CPT
 
 ## SUBNETING
 - LAUBHILLS
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/f38f5ddf-7a61-43fe-ba3e-d4b56f348142)
 
 - APPETITREGION
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/33724dbf-8e2c-42e1-bc79-df2abde9c118)
 
 - ROHRROAD
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/3c10ccc1-8812-41b0-9574-8decf3119ec1)
 
 - SCHWERMOUNTAINS
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/5562009e-a3b6-42ac-8d63-4fbfa94e5159)
 
 - LAKEKORIDOR
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/355235d9-e63d-4e11-a78e-5002050e5a1c)
 
 - ROYALCAPITAL
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/0c52dfa5-27e1-4f34-b7db-7d25f8ba9972)
 
 - WILLEREGION
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/27daff35-0e20-4405-a761-d80d652377af)
 
 - RITCHER
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/7dd3f479-e3b3-466d-ad22-fb05741d4283)
 
 - REVOLTE
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/2b08a481-a9b1-4731-b592-d0648d160b93)
 
 - STARK
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/1f961146-003b-4912-9eec-370f005e07ef)
 
 - TURKREGION
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/83492976-f492-4d7f-9a6b-04cbbb21e40c)
 
 - GROBEFOREST
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/c9b5a412-89c8-4fb6-aa1b-390a9bb0536c)
 
 - GRANZCHANNEL
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/828f25e2-f068-4ac3-9ebe-155b76b5a773)
 
 - BREDTREGION
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/1256587a-326b-462c-b3ad-d40e88473cdb)
 
 - SEIN
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/5b2b0d05-af35-4b50-a405-98b31086b966)
 
 - REIGEL CANYON
+  
 ![image](https://github.com/RuleLuluDamara/Jarkom-Modul-4-A13-2023/assets/105763198/31ab7dc4-4105-4577-b594-348dbbc5892a)
 
 
