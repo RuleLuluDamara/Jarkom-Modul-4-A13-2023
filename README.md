@@ -170,7 +170,7 @@ iface eth0 inet static
 auto eth1
 iface eth1 inet static
 	address 192.175.20.1
-	netmask 255.255.255.254.0
+	netmask 255.255.254.0
 
 auto eth2
 iface eth2 inet static
